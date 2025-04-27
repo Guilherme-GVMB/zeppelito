@@ -1,7 +1,7 @@
 ### Olá eu sou Guilherme Vitor mas pode me chamar de Zeppelito👋
 
 
-- 🔭 Trabalho como front-end lider de equipe estagiario pela jgt 
+- 🔭 Trabalho como Auxiliar de TI
 - 🌱 estudante de Sistema da Informação
 - 📫 Contate-me através de meu email: martins2019gv@gmail.com
 

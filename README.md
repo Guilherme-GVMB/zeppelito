@@ -16,9 +16,8 @@ Desenvolvedor júnior de software | Flutter | Dart | Python | Java | Javascript 
 
 ## 📂 Projetos Recentes
 
-- **[Calculadora Flutter](https://github.com/SEU_USUARIO/calculadora)** – Calculadora estilo Windows  
-- **[Sistema de EPIs](https://github.com/SEU_USUARIO/sistema-epis)** – Automação de pedidos de EPIs  
-- **[SAC Natural da Vaca](https://github.com/SEU_USUARIO/sac)** – Sistema de atendimento ao cliente  
+- **[Calculadora Flutter]([https://github.com/SEU_USUARIO/calculadora)](https://github.com/Guilherme-GVMB/Calculadora---dart)** – Calculadora estilo Windows  
+
 
 ---
 

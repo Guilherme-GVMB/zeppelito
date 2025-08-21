@@ -2,7 +2,7 @@
 
 Desenvolvedor júnior de software | Flutter | Dart | Python | Java | Javascript | C++ | Criando soluções internas e apps web.
 
-![Banner]([https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif](https://giphy.com/gifs/tumbler-ophelias-sunset-sun-aesthetic-grunge-WrUOlEoYhJ6wog4hCJ))
+![Banner](https://media.giphy.com/media/WrUOlEoYhJ6wog4hCJ/giphy.gif)
 
 ---
 

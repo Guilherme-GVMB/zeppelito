@@ -16,7 +16,8 @@ Desenvolvedor júnior de software | Flutter | Dart | Python | Java | Javascript 
 
 ## 📂 Projetos Recentes
 
-- **[Calculadora Flutter]([https://github.com/SEU_USUARIO/calculadora)](https://github.com/Guilherme-GVMB/Calculadora---dart)** – Calculadora estilo Windows  
+- **[Calculadora Flutter](https://github.com/Guilherme-GVMB/Calculadora---dart)** – Calculadora estilo Windows
+
 
 
 ---
